@@ -1,0 +1,194 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#008080",
+          "marker-size": "medium",
+          "marker-symbol": "restaurant",
+          "name": "Himalaya",
+          "region": "sion",
+          "type": "food",
+          "min": 200
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            72.86012649536133,
+            19.032302073125653
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "name": "The Central Kitchen",
+          "region": "sion",
+          "type": "food",
+          "min": 350
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            72.86111354827881,
+            19.034289960441626
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "name": "Sardar Paya House",
+          "type": "food",
+          "min": 350
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            72.86291599273682,
+            19.034452235906787
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "name": "Hardeep Punjab",
+          "region": "sion",
+          "type": "food",
+          "min": 500
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            72.86313056945801,
+            19.034371098194022
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "name": "Oven",
+          "region": "sion",
+          "type": "food",
+          "min": 400
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            72.86074876785278,
+            19.033519149816858
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "name": "Mini Punjab",
+          "region": "sion",
+          "type": "food",
+          "min": 200
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            72.86276578903198,
+            19.03404654694661
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "name": "Raj Palace",
+          "region": "sion",
+          "type": "food",
+          "min": 150
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            72.86240100860596,
+            19.03374227957614
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "name": "Priyanka Chinese Corner",
+          "region": "sion",
+          "type": "food",
+          "min": 100
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            72.86454677581787,
+            19.032707766346995
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "name": "Chawal Fast Food",
+          "region": "sion",
+          "type": "food",
+          "min": 150
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            72.86413908004761,
+            19.033833559845817
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "name": "Agarwal FastFood Veg.",
+          "region": "sion",
+          "type": "food",
+          "min": 150
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            72.86501884460449,
+            19.03401612023465
+          ]
+        }
+      }
+    ]
+  }

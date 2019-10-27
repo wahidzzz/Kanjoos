@@ -1,0 +1,98 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header,
+main,
+footer,
+.content {
+    padding-left: 300px;
+}
+
+a {
+    cursor: pointer;
+}
+
+input[type="range"] {
+    height: 25px;
+    -webkit-appearance: none;
+    margin: 10px 0;
+    width: 100%;
+}
+
+input[type="range"]:focus {
+    outline: none;
+}
+
+input[type="range"]::-webkit-slider-runnable-track {
+    width: 100%;
+    height: 5px;
+    cursor: pointer;
+    animation: 0.2s;
+    box-shadow: 0px 0px 0px #000000;
+    background: #2497e3;
+    border-radius: 1px;
+    border: 0px solid #000000;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+    box-shadow: 0px 0px 0px #000000;
+    border: 1px solid #2497e3;
+    height: 18px;
+    width: 18px;
+    border-radius: 25px;
+    background: #a1d0ff;
+    cursor: pointer;
+    -webkit-appearance: none;
+    margin-top: -7px;
+}
+
+
+/*Preloader styling*/
+
+#preloader {
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(255, 255, 255, 0.5) url("../img/kanjoos-load.gif") no-repeat center;
+    z-index: 999999;
+}
+
+
+/*marker styling*/
+
+.marker {
+    background-image: url("../img/marker.gif");
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    border-radius: 40%;
+    cursor: pointer;
+}
+
+.mapboxgl-popup {
+    max-width: 200px;
+}
+
+.mapboxgl-popup-content {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+}
+
+.marker h3 {
+    font-size: 5px;
+}
+
+
+/*Marker Ends*/
+
+@media only screen and (max-width: 992px) {
+    header,
+    main,
+    footer,
+    .content {
+        padding-left: 0;
+    }
+}

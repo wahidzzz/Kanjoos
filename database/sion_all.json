@@ -1,0 +1,425 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#008080",
+          "marker-size": "medium",
+          "marker-symbol": "restaurant",
+          "name": "Himalaya",
+          "region": "sion",
+          "type": "food",
+          "min": 200
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            72.86012649536133,
+            19.032302073125653
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "name": "The Central Kitchen",
+          "region": "sion",
+          "type": "food",
+          "min": 350
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            72.86111354827881,
+            19.034289960441626
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "name": "Sardar Paya House",
+          "type": "food",
+          "min": 350
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            72.86291599273682,
+            19.034452235906787
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "name": "Hardeep Punjab",
+          "region": "sion",
+          "type": "food",
+          "min": 500
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            72.86313056945801,
+            19.034371098194022
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "name": "Oven",
+          "region": "sion",
+          "type": "food",
+          "min": 400
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            72.86074876785278,
+            19.033519149816858
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "name": "Mini Punjab",
+          "region": "sion",
+          "type": "food",
+          "min": 200
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            72.86276578903198,
+            19.03404654694661
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "name": "Raj Palace",
+          "region": "sion",
+          "type": "food",
+          "min": 150
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            72.86240100860596,
+            19.03374227957614
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "name": "Priyanka Chinese Corner",
+          "region": "sion",
+          "type": "food",
+          "min": 100
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            72.86454677581787,
+            19.032707766346995
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "name": "Chawal Fast Food",
+          "region": "sion",
+          "type": "food",
+          "min": 150
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            72.86413908004761,
+            19.033833559845817
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "name": "Agarwal FastFood Veg.",
+          "region": "sion",
+          "type": "food",
+          "min": 150
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            72.86501884460449,
+            19.03401612023465
+          ]
+        }
+    },
+        {
+
+            "type": "Feature",
+            "properties": {
+              "marker-color": "#7e7e7e",
+              "marker-size": "medium",
+              "marker-symbol": "",
+              "name": "Universal Fashion",
+              "region": "sion",
+              "type": "fashion",
+              "min": 800
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [72.85903215408325, 19.031328405351488]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "marker-color": "#7e7e7e",
+              "marker-size": "medium",
+              "marker-symbol": "",
+              "name": "Raj Fashion",
+              "region": "sion",
+              "type": "fashion",
+              "min": 700
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [72.8589677810669, 19.031024133001562]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "marker-color": "#7e7e7e",
+              "marker-size": "medium",
+              "marker-symbol": "",
+              "name": "Oberoi Fashion",
+              "region": "sion",
+              "type": "fashion",
+              "min": 500
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [72.85862445831299, 19.031348690154996]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "marker-color": "#7e7e7e",
+              "marker-size": "medium",
+              "marker-symbol": "",
+              "name": "Fashion Plus",
+              "region": "sion",
+              "type": "fashion",
+              "min": 700
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [72.85768032073973, 19.03220064966549]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "marker-color": "#7e7e7e",
+              "marker-size": "medium",
+              "marker-symbol": "",
+              "name": "Ritu Fashion",
+              "region": "sion",
+              "type": "fashion",
+              "min": 1000
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [72.85892486572266, 19.031987660197537]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "marker-color": "#7e7e7e",
+              "marker-size": "medium",
+              "marker-symbol": "",
+              "name": "Minx Fashion",
+              "region": "sion",
+              "type": "fashion",
+              "min": 800
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [72.86046981811523, 19.0324643505331]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+              "type": "Point",
+              "coordinates": [72.85967588424683, 19.030780714720322]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "marker-color": "#7e7e7e",
+              "marker-size": "medium",
+              "marker-symbol": "",
+              "name": "Meena Fashion",
+              "region": "sion",
+              "type": "fashion",
+              "min": 700
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [72.86085605621338, 19.031510968493905]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "marker-color": "#7e7e7e",
+              "marker-size": "medium",
+              "marker-symbol": "",
+              "name": "Fashion Touch",
+              "region": "sion",
+              "min": 500
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [72.8618860244751, 19.032362927172034]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "marker-color": "#7e7e7e",
+              "marker-size": "medium",
+              "marker-symbol": "",
+              "name": "WebxEra",
+              "region": "sion",
+              "type": "fashion",
+              "min": 1000
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [72.8608775138855, 19.03368142603516]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "marker-color": "#7e7e7e",
+              "marker-size": "medium",
+              "marker-symbol": "",
+              "name": "Sion Fort",
+              "region": "sion",
+              "type": "travel",
+              "min": 150
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [72.86767959594727, 19.046216784585397]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "marker-color": "#7e7e7e",
+              "marker-size": "medium",
+              "marker-symbol": "",
+              "name": "Riwa Fort",
+              "region": "sion",
+              "type": "travel",
+              "min": 150
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [72.86484718322754, 19.0476771531433]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "marker-color": "#7e7e7e",
+              "marker-size": "medium",
+              "marker-symbol": "",
+              "name": "Sion Garden Park",
+              "region": "sion",
+              "type": "travel",
+              "min": 100
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [72.86381721496582, 19.04248467322423]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "marker-color": "#7e7e7e",
+              "marker-size": "medium",
+              "marker-symbol": "",
+              "name": "Maharastra Nature park",
+              "region": "sion",
+              "type": "travel",
+              "min": 100
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [72.8639030456543, 19.05205818170657]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "marker-color": "#7e7e7e",
+              "marker-size": "medium",
+              "marker-symbol": "",
+              "name": "Dharavi Fort",
+              "region": "sion",
+              "type": "travel",
+              "min": 100
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [72.85952568054199, 19.05108462980014]
+            }
+        },
+      

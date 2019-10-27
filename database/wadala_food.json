@@ -1,0 +1,164 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#008000",
+                "marker-size": "medium",
+                "marker-symbol": "fast-food",
+                "name": "Hariyali Restaurant and Bar",
+                "region": "wadala",
+                "type": "food",
+                "min": 500
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.86330223083496, 19.01859413116671]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0000",
+                "marker-size": "medium",
+                "marker-symbol": "fast-food",
+                "name": "barkat baba chicken fry center",
+                "region": "wadala",
+                "type ": "food",
+                "min": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.86361336708069, 19.01856370162487]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0000",
+                "marker-size": "medium",
+                "marker-symbol": "fast-food",
+                "name": "The Ashoka Restaurant & Bar",
+                "region": "wadala",
+                "type": "food",
+                "min": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.86386013031006, 19.018335479883483]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0000",
+                "marker-size": "medium",
+                "marker-symbol": "fast-food",
+                "name": "smokin joe's wadala",
+                "region": "wadala",
+                "type": "food",
+                "min": 500
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.86401033401489, 19.018076828197778]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0000",
+                "marker-size": "medium",
+                "marker-symbol": "fast-food",
+                "name": "bombay burger",
+                "region": "wadala",
+                "type": "food",
+                "min": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.85924673080444, 19.017047289067513]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0000",
+                "marker-size": "medium",
+                "marker-symbol": "fast-food",
+                "name": "Wok In",
+                "region": "wadala",
+                "type": "food",
+                "min": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.85852789878845, 19.016884996603128]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#008040",
+                "marker-size": "medium",
+                "marker-symbol": "fast-food",
+                "name": "shree krishna Bhelpuri",
+                "region": "wadala",
+                "type": "food",
+                "min": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.85788416862488, 19.017630526303552]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#008040",
+                "marker-size": "medium",
+                "marker-symbol": "fast-food",
+                "name": "I Love Food",
+                "region": "wadala",
+                "type": "food",
+                "min": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.85781979560852, 19.017427661410064]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#008040",
+                "marker-size": "medium",
+                "marker-symbol": "fast-food",
+                "name": "palkhi",
+                "region": "wadala",
+                "type": "food",
+                "min": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.86309838294981, 19.022179706511068]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0000",
+                "marker-size": "medium",
+                "marker-symbol": "fast-food",
+                "name": "Bharat Restaurant",
+                "region": "wadala",
+                "type": "food",
+                "min": 500
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.86524415016174, 19.017351587011184]
+            }
+        }
+    ]
+}

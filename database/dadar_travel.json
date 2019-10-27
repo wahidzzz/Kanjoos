@@ -1,0 +1,137 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0080",
+                "marker-size": "medium",
+                "marker-symbol": "park",
+                "name": "Shivaji Park",
+                "region": "dadar",
+                "type": "travel",
+                "min": 200
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.8378963470459,
+                    19.02735253604135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0080",
+                "marker-size": "medium",
+                "marker-symbol": "garden",
+                "name": "ChaityaBhoomi",
+                "region": "dadar",
+                "type": "travel",
+                "min": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.83510684967041,
+                    19.027474247738198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0080",
+                "marker-size": "medium",
+                "marker-symbol": "ferry",
+                "name": "Dadar Beach",
+                "region": "dadar",
+                "type": "travel",
+                "min": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.82931327819824,
+                    19.02098283281864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0080",
+                "marker-size": "medium",
+                "marker-symbol": "cinema",
+                "name": "Plaza Cinema",
+                "region": "dadar",
+                "type": "travel",
+                "min": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.84257411956787,
+                    19.02183484548367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0080",
+                "marker-size": "medium",
+                "marker-symbol": "shop",
+                "name": "Star Mall",
+                "region": "dadar",
+                "type": "travel",
+                "min": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.84214496612549,
+                    19.022808568895176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0080",
+                "marker-size": "medium",
+                "marker-symbol": "circle-stroked",
+                "name": "Kabutar Khana",
+                "region": "dadar",
+                "type": "travel",
+                "min": 200
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.84044981002808,
+                    19.018873068374035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0080",
+                "marker-size": "medium",
+                "marker-symbol": "religious-christian",
+                "name": "Our lady of Salvation Church",
+                "region": "dadar",
+                "type": "travel",
+                "min": 200
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.83613681793213,
+                    19.0186904913458
+                ]
+            }
+        }
+    ]
+}

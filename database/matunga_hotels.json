@@ -1,0 +1,42 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#00ffff",
+                "marker-size": "medium",
+                "marker-symbol": "warehouse",
+                "name": "Hotel Styavel",
+                "region": "matunga",
+                "type": "hotel",
+                "min": 1860
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.84114718437195,
+                    19.020090243437263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#00ffff",
+                "marker-size": "medium",
+                "marker-symbol": "warehouse",
+                "name": "Hotel New Shree Niwas",
+                "region": "matunga",
+                "type": "hotel",
+                "min": 1600
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.84669399261475,
+                    19.02952304791812
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0000",
+                "marker-size": "medium",
+                "marker-symbol": "fast-food",
+                "name": "Charcol Eats",
+                "region": "dadar",
+                "type": "food",
+                "min": 600
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.85216569900513, 19.020830687240274]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#008080",
+                "marker-size": "medium",
+                "marker-symbol": "fast-food",
+                "name": "muffins fast food",
+                "region": "dadar",
+                "type": "food",
+                "min": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.8511893749237, 19.017737030273533]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#008080",
+                "marker-size": "medium",
+                "marker-symbol": "fast-food",
+                "name": "Refresso Fast Food",
+                "region": "dadar",
+                "type": "food",
+                "min": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.84698367118834, 19.013355096305983]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#008080",
+                "marker-size": "medium",
+                "marker-symbol": "cafe",
+                "name": "Shree Krishna Batatawada",
+                "region": "dadar",
+                "type": "food",
+                "min": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.84250974655151, 19.02023224661404]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#008080",
+                "marker-size": "medium",
+                "marker-symbol": "fast-food",
+                "name": "Karmath Veg Fast Food",
+                "region": "dadar",
+                "type": "food",
+                "min": 400
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.84167289733887, 19.01820361829008]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#008080",
+                "marker-size": "medium",
+                "marker-symbol": "restaurant",
+                "name": "Angrezi Dhaba",
+                "region": "dadar",
+                "type": "food",
+                "min": 800
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.84124374389647, 19.02023224661404]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0000",
+                "marker-size": "medium",
+                "marker-symbol": "restaurant",
+                "name": "Burger King",
+                "region": "dadar",
+                "type": "food",
+                "min": 400
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.84215569496155, 19.022889712255285]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0000",
+                "marker-size": "medium",
+                "marker-symbol": "restaurant",
+                "name": "McDonald's",
+                "region": "dadar",
+                "type": "food",
+                "min": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.84203767776489, 19.022950569749348]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#008080",
+                "marker-size": "medium",
+                "marker-symbol": "restaurant",
+                "name": "Gypsy Corner",
+                "region": "dadar",
+                "type": "food",
+                "min": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.84008502960205, 19.025587706417586]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0000",
+                "marker-size": "medium",
+                "marker-symbol": "restaurant",
+                "name": "The J",
+                "region": "dadar",
+                "type": "food",
+                "min": 350
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.83624410629272, 19.02656140783852]
+            }
+        }
+    ]
+}

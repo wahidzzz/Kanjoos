@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sion Fort",
+        "region": "sion",
+        "type": "travel",
+        "min": 150
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.86767959594727, 19.046216784585397]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Riwa Fort",
+        "region": "sion",
+        "type": "travel",
+        "min": 150
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.86484718322754, 19.0476771531433]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sion Garden Park",
+        "region": "sion",
+        "type": "travel",
+        "min": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.86381721496582, 19.04248467322423]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Maharastra Nature park",
+        "region": "sion",
+        "type": "travel",
+        "min": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.8639030456543, 19.05205818170657]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Dharavi Fort",
+        "region": "sion",
+        "type": "travel",
+        "min": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.85952568054199, 19.05108462980014]
+      }
+    }
+  ]
+}

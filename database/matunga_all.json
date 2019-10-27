@@ -1,0 +1,365 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "clothing-store",
+                "name": "FashionBug",
+                "region": "matunga",
+                "type": "fashion",
+                "min": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.84997701644897,
+                    19.025841275045455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "shop",
+                "name": "Fashion Boutique",
+                "region": "matunga",
+                "type": "fashion",
+                "min": 700
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.85026669502257,
+                    19.026297697600462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "clothing-store",
+                "name": "Fashion Fever",
+                "region": "matunga",
+                "type": "fashion",
+                "min": 1000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.85063147544861,
+                    19.026885973710783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#008080",
+                "marker-size": "medium",
+                "marker-symbol": "fast-food",
+                "name": "Relax Fast Food",
+                "region": "matunga",
+                "type": "food",
+                "min": 400
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.8574013710022,
+                    19.022321707902574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#008080",
+                "marker-size": "medium",
+                "marker-symbol": "fast-food",
+                "name": "I Love Food",
+                "region": "matunga",
+                "type": "food",
+                "min": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.85653233528136,
+                    19.02609484328635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#008080",
+                "marker-size": "medium",
+                "marker-symbol": "fast-food",
+                "name": "Cafe 2.0",
+                "region": "matunga",
+                "type": "food",
+                "min": 400
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.85464406013489,
+                    19.02571956215237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#008080",
+                "marker-size": "medium",
+                "marker-symbol": "cafe",
+                "name ": "Cafe Madaras",
+                "region": "matunga",
+                "type": "food",
+                "min": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.85507321357727,
+                    19.027616244605163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#008080",
+                "marker-size": "medium",
+                "marker-symbol": "cafe",
+                "name": "Cafe Mysore",
+                "region": "matunga",
+                "type": "food",
+                "min": 500
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.85560965538025,
+                    19.02757567408413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#008080",
+                "marker-size": "medium",
+                "marker-symbol": "fast-food",
+                "name": "Arya bhavan",
+                "region": "matunga",
+                "type": "food",
+                "min": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.8510069847107,
+                    19.02707868439744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#008080",
+                "marker-size": "medium",
+                "marker-symbol": "fast-food",
+                "name": "Matunga Fast Food",
+                "region": "matunga",
+                "type": "food",
+                "min": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.85120010375977,
+                    19.027291680159493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#008080",
+                "marker-size": "medium",
+                "marker-symbol": "cafe",
+                "name": "Ram Ashraya",
+                "region": "matunga",
+                "type": "food",
+                "min": 200
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.85176873207092,
+                    19.027971236241594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#008080",
+                "marker-size": "medium",
+                "marker-symbol": "cafe",
+                "name": "Rangoli",
+                "region": "matunga",
+                "type": "food",
+                "min": 500
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.85712242126465,
+                    19.02721053894901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#00ffff",
+                "marker-size": "medium",
+                "marker-symbol": "warehouse",
+                "name": "Hotel Styavel",
+                "region": "matunga",
+                "type": "hotel",
+                "min": 1860
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.84114718437195,
+                    19.020090243437263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#00ffff",
+                "marker-size": "medium",
+                "marker-symbol": "warehouse",
+                "name": "Hotel New Shree Niwas",
+                "region": "matunga",
+                "type": "hotel",
+                "min": 1600
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.84669399261475,
+                    19.02952304791812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0080",
+                "marker-size": "medium",
+                "marker-symbol": "place-of-worship",
+                "name": "SSA Manamala Devi Mandir",
+                "region": "matunga",
+                "type": "travel",
+                "min": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.84463405609131,
+                    19.029624473013214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0080",
+                "marker-size": "medium",
+                "marker-symbol": "garden",
+                "name": "maheswari Udyan",
+                "region": "matunga",
+                "type": "travel",
+                "min": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.85526633262634,
+                    19.027058399072537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0080",
+                "marker-size": "medium",
+                "marker-symbol": "place-of-worship",
+                "name": "Asthika samaj mandir",
+                "region": "Matunga",
+                "type": "travel",
+                "min": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.85456895828247,
+                    19.027910380586363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0080",
+                "marker-size": "medium",
+                "marker-symbol": "place-of-worship",
+                "name": "Kedareshwar Mandir",
+                "region": "matunga",
+                "type": "travel",
+                "min": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.85357117652892,
+                    19.024613999290636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0080",
+                "marker-size": "medium",
+                "marker-symbol": "place-of-worship",
+                "name": "Shri. Marubai Mandir",
+                "region": "matunga",
+                "type": "travel",
+                "min": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.85670399665833,
+                    19.027393106616884
+                ]
+            }
+        }
+    ]
+}

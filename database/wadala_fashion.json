@@ -1,0 +1,164 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#004080",
+                "marker-size": "medium",
+                "marker-symbol": "clothing-store",
+                "name": "Reeta Fashion sadi Center",
+                "region": "wadala",
+                "type": "fashion",
+                "min": 800
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.85359263420105, 19.016570554502522]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#004080",
+                "marker-size": "medium",
+                "marker-symbol": "clothing-store",
+                "name": "Synergy Fashion",
+                "region": "wadala",
+                "type": "fashion",
+                "min": 500
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.85276651382446, 19.01674299056683]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#004080",
+                "marker-size": "medium",
+                "marker-symbol": "clothing-store",
+                "name": "V2v Fashion",
+                "region": "wadala",
+                "type": "fashion",
+                "min": 1000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.85569548606873, 19.014379586582677]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#004080",
+                "marker-size": "medium",
+                "marker-symbol": "clothing-store",
+                "name": "tik tok mens fashion",
+                "region": "wadala",
+                "type": "fashion",
+                "min": 800
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.85781979560852, 19.015688084785342]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#004080",
+                "marker-size": "medium",
+                "marker-symbol": "clothing-store",
+                "name": "jaiswal Fashion Corner",
+                "region": "wadala",
+                "type": "fashion",
+                "min": 600
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.85932183265686, 19.017128435240288]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#004080",
+                "marker-size": "medium",
+                "marker-symbol": "clothing-store",
+                "name": "madness fashion",
+                "region": "wadala",
+                "type": "fashion",
+                "min": 600
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.86090970039368, 19.018731064036075]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#004080",
+                "marker-size": "medium",
+                "marker-symbol": "clothing-store",
+                "name": "Soul X Fashion",
+                "region": "wadala",
+                "type": "fashion",
+                "min": 800
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.86610245704651, 19.0184064822366]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#004080",
+                "marker-size": "medium",
+                "marker-symbol": "clothing-store",
+                "name": "Swanky fashion to impress",
+                "region": "wadala",
+                "type": "fashion",
+                "min": 700
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.86662817001343, 19.018071756592082]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#004080",
+                "marker-size": "medium",
+                "marker-symbol": "clothing-store",
+                "name": "Bushra Fashion",
+                "region": "wadala",
+                "type": "fashion",
+                "min": 500
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.86216497421265, 19.02059739708292]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#004080",
+                "marker-size": "medium",
+                "marker-symbol": "clothing-store",
+                "name": "Krishaa fashion",
+                "region": "wadala",
+                "type": "fashion",
+                "min": 600
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.86351680755615, 19.022747711349105]
+            }
+        }
+    ]
+}

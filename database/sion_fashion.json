@@ -1,0 +1,156 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Universal Fashion",
+        "region": "sion",
+        "type": "fashion",
+        "min": 800
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.85903215408325, 19.031328405351488]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Raj Fashion",
+        "region": "sion",
+        "type": "fashion",
+        "min": 700
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.8589677810669, 19.031024133001562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Oberoi Fashion",
+        "region": "sion",
+        "type": "fashion",
+        "min": 500
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.85862445831299, 19.031348690154996]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fashion Plus",
+        "region": "sion",
+        "type": "fashion",
+        "min": 700
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.85768032073973, 19.03220064966549]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ritu Fashion",
+        "region": "sion",
+        "type": "fashion",
+        "min": 1000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.85892486572266, 19.031987660197537]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Minx Fashion",
+        "region": "sion",
+        "type": "fashion",
+        "min": 800
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.86046981811523, 19.0324643505331]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.85967588424683, 19.030780714720322]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Meena Fashion",
+        "region": "sion",
+        "type": "fashion",
+        "min": 700
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.86085605621338, 19.031510968493905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fashion Touch",
+        "region": "sion",
+        "min": 500
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.8618860244751, 19.032362927172034]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "WebxEra",
+        "region": "sion",
+        "type": "fashion",
+        "min": 1000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.8608775138855, 19.03368142603516]
+      }
+    }
+  ]
+}

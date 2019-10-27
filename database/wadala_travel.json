@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0080",
+                "marker-size": "medium",
+                "marker-symbol": "park",
+                "name": "Five Garden",
+                "region": "wadala",
+                "type": "travel",
+                "min": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.85384476184845,
+                    19.020115601156295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0080",
+                "marker-size": "medium",
+                "marker-symbol": "shop",
+                "name": "Noora Bazar",
+                "region": "wadala",
+                "type": "travel",
+                "min": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.86306619644165,
+                    19.026926544400233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0080",
+                "marker-size": "medium",
+                "marker-symbol": "place-of-worship",
+                "name": "wadala church",
+                "region": "wadala",
+                "type": "travel",
+                "min": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.8565001487732,
+                    19.02086111636709
+                ]
+            }
+        }
+    ]
+}

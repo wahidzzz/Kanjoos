@@ -1,0 +1,99 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0080",
+                "marker-size": "medium",
+                "marker-symbol": "place-of-worship",
+                "name": "SSA Manamala Devi Mandir",
+                "region": "matunga",
+                "type": "travel",
+                "min": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.84463405609131,
+                    19.029624473013214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0080",
+                "marker-size": "medium",
+                "marker-symbol": "garden",
+                "name": "maheswari Udyan",
+                "region": "matunga",
+                "type": "travel",
+                "min": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.85526633262634,
+                    19.027058399072537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0080",
+                "marker-size": "medium",
+                "marker-symbol": "place-of-worship",
+                "name": "Asthika samaj mandir",
+                "region": "Matunga",
+                "type": "travel",
+                "min": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.85456895828247,
+                    19.027910380586363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0080",
+                "marker-size": "medium",
+                "marker-symbol": "place-of-worship",
+                "name": "Kedareshwar Mandir",
+                "region": "matunga",
+                "type": "travel",
+                "min": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.85357117652892,
+                    19.024613999290636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0080",
+                "marker-size": "medium",
+                "marker-symbol": "place-of-worship",
+                "name": "Shri. Marubai Mandir",
+                "region": "matunga",
+                "type": "travel",
+                "min": 250
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.85670399665833,
+                    19.027393106616884
+                ]
+            }
+        }
+    ]
+}

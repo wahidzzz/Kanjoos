@@ -1,0 +1,148 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "shop",
+                "name": "Vivah Fashion",
+                "region": "dadar",
+                "type": "fashion",
+                "min": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.84261703491211, 19.013659401007608]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "shop",
+                "name": "Prisha Fashion",
+                "region": "dadar",
+                "type": "fashion",
+                "min": 400
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.83843278884888, 19.01512005582276]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "clothing-store",
+                "name": "Zeel Fashion",
+                "region": "dadar",
+                "type": "fashion",
+                "min": 500
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.83727407455444, 19.015363497044373]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "shop",
+                "name": "Madhuri Fashion",
+                "region": "dadar",
+                "type": "fashion",
+                "min": 350
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.84062147140503, 19.0177978896543]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "shop",
+                "name": "Jeans Fashion",
+                "region": "dadar",
+                "type": "fashion",
+                "min": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.83905506134033, 19.015404070546644]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "clothing-store",
+                "name": "Zeel Fashion",
+                "region": "dadar",
+                "type": "fashion",
+                "min": 500
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.83931255340576, 19.015718514853564]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "shop",
+                "name": "mansi fashion",
+                "region": "dadar",
+                "type": "fashion",
+                "min": 700
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.83906579017639, 19.01627639845061]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "shop",
+                "name": "Suvidha Fashion",
+                "region": "dadar",
+                "type": "fashion",
+                "min": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.84257411956787, 19.01954251576182]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "shop",
+                "name": "Bata Shoe Store",
+                "region": "dadar",
+                "type": "fashion",
+                "min": 500
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.83976316452026, 19.018284763898393]
+            }
+        }
+    ]
+}

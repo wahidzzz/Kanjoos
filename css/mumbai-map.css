@@ -1,0 +1,118 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#map {
+    width: 100%;
+    height: 100vh;
+}
+
+#menu {
+    background-color: #fff;
+    font: "Helvetica Neue", Arial, Helvetica, sans-serif;
+    position: absolute;
+    display: inline-block;
+    width: 400px;
+    height: 50px;
+    top: 5px;
+    right: 30px;
+    padding: 5px;
+}
+
+#preloader {
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(255, 255, 255, 0.5) url("../img/kanjoos-load.gif") no-repeat center;
+    z-index: 999999;
+}
+
+.map-overlay {
+    font: "Helvetica Neue", Arial, Helvetica, sans-serif;
+    position: absolute;
+    width: 200px;
+    bottom: 30px;
+    right: 0;
+    padding: 10px;
+}
+
+.map-overlay .map-overlay-inner {
+    background-color: #fff;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.map-overlay-inner fieldset {
+    border: none;
+    padding: 0;
+    margin: 0 0 10px;
+}
+
+.map-overlay-inner fieldset:last-child {
+    margin: 0;
+}
+
+.map-overlay-inner select {
+    width: 100%;
+}
+
+.map-overlay-inner label {
+    display: block;
+    font-weight: bold;
+    margin: 0 0 5px;
+}
+
+.map-overlay-inner button {
+    display: inline-block;
+    width: 36px;
+    height: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.map-overlay-inner button:focus {
+    outline: none;
+}
+
+.map-overlay-inner button:hover {
+    box-shadow: inset 0 0 0 3px rgba(0, 0, 0, 0.1);
+}
+
+@media only screen and (max-width: 992px) {
+    #menu {
+        right: 8px;
+        top: 5px;
+    }
+}
+
+
+/*marker styling*/
+
+.marker {
+    background-image: url("../img/marker.gif");
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    border-radius: 40%;
+    cursor: pointer;
+}
+
+.mapboxgl-popup {
+    max-width: 200px;
+}
+
+.mapboxgl-popup-content {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+}
+
+.marker h3 {
+    font-size: 5px;
+}
+
+
+/*Marker Ends*/

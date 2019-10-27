@@ -1,0 +1,116 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#00ffff",
+                "marker-size": "medium",
+                "marker-symbol": "warehouse",
+                "name": "Zahara Guest House",
+                "region": "dadar",
+                "type": "hotel",
+                "min": 800
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.84480571746826, 19.01481575379448]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#00ffff",
+                "marker-size": "medium",
+                "marker-symbol": "warehouse",
+                "name": "A1 rest House",
+                "region": "dadar",
+                "type": "hotel",
+                "min": 1280
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.84315347671509, 19.016580697805367]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#00ffff",
+                "marker-size": "medium",
+                "marker-symbol": "warehouse",
+                "name": "Hotel Anand Lodge",
+                "region": "dadar",
+                "type": "hotel",
+                "min": 1690
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.84374356269836, 19.016905283169834]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#00ffff",
+                "marker-size": "medium",
+                "marker-symbol": "warehouse",
+                "name": "Kohinoor Lodge",
+                "region": "dadar",
+                "type": "hotel",
+                "min": 1790
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.84435510635376, 19.01721972463732]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#00ffff",
+                "marker-size": "medium",
+                "marker-symbol": "warehouse",
+                "name": "Hotel Manhar",
+                "region": "dadar",
+                "type": "hotel",
+                "min": 750
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.84411907196045, 19.017280584207484]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#00ffff",
+                "marker-size": "medium",
+                "marker-symbol": "warehouse",
+                "name": "Hotel Styavel",
+                "region": "dadar",
+                "type": "hotel",
+                "min": 1860
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.84114718437195, 19.020090243437263]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#00ffff",
+                "marker-size": "medium",
+                "marker-symbol": "warehouse",
+                "name": "BMTH lodge",
+                "region": "dadar",
+                "type": "hotel",
+                "min": 350
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.84155488014221, 19.020222103534]
+            }
+        }
+    ]
+}

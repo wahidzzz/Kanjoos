@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "clothing-store",
+                "name": "FashionBug",
+                "region": "matunga",
+                "type": "fashion",
+                "min": 300
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.84997701644897,
+                    19.025841275045455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "shop",
+                "name": "Fashion Boutique",
+                "region": "matunga",
+                "type": "fashion",
+                "min": 700
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.85026669502257,
+                    19.026297697600462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "clothing-store",
+                "name": "Fashion Fever",
+                "region": "matunga",
+                "type": "fashion",
+                "min": 1000
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.85063147544861,
+                    19.026885973710783
+                ]
+            }
+        }
+    ]
+}
